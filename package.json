@@ -1,0 +1,16 @@
+{
+  "name": "time2kill-trading-backend",
+  "version": "1.0.0",
+  "description": "Time2Kill Trading AI Backend",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "express": "^4.18.0",
+    "cors": "^2.8.5"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
